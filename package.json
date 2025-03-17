@@ -1,0 +1,19 @@
+{
+  "name": "demo_project",
+  "version": "1.0.0",
+  "description": "My first code for the day in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "code"
+  ],
+  "author": "vasim",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
